@@ -11,6 +11,7 @@
 
 | Course                     | Instructor       | Provider            |
 | :------------------------- | :--------------: | :-----------------: |
+| Geo-Python                 | H. Tenkanen & D. Whipp| University of Helsinki |
 | Python / SQL / Datascience |                  | W3 Schools          |
 | Pandas / Numpy / Scipy     |                  | W3 Schools          |
 | AI for Everyone            | Andrew Ng        | Deeplearning.ai     |
