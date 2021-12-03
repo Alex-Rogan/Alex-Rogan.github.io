@@ -11,12 +11,8 @@
 
 | Course                     | Instructor       | Provider            |
 | :------------------------- | :--------------: | :-----------------: |
-| Python                                        | W3 Schools          |
-| SQL                        |                  | W3 Schools          |
-| Datascience                |                  | W3 Schools          |
-| Pandas                     |                  | W3 Schools          |
-| Numpy                      |                  | W3 Schools          |
-| Scipy                      |                  | W3 Schools          |
+| Python / SQL / Datascience |                  | W3 Schools          |
+| Pandas / Numpy / Scipy     |                  | W3 Schools          |
 | AI for Everyone            | Andrew Ng        | Deeplearning.ai     |
 | Statistics                 |                  | W3 Schools          |
 | Introduction to Statistics | Guenther Walther | Stanford University |
