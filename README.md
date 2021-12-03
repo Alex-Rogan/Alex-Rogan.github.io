@@ -9,3 +9,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | :------------------------- | ---------------- | ------------------- | ------ |
 | AI for Everyone            | Andrew Ng        | Deeplearning.ai     | 4h     |
 | Introduction to Statistics | Guenther Walther | Stanford University | 15h    |
+{: .tablelines}
