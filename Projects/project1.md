@@ -1,3 +1,3 @@
-<a href="../README.html">Back</a>
+<a href="../">Back</a>
 
 #Project 1
