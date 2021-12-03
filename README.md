@@ -1,4 +1,4 @@
-<a href="./projects">Go to next page</a>
+<a href="./Projects/project.md">Project 1</a>
 
 ## Ongoing Projects
   
