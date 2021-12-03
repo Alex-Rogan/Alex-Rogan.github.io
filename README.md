@@ -11,11 +11,11 @@
 
 | Course                     | Instructor       | Provider            |
 | :------------------------- | :--------------: | :-----------------: |
-| Geo-Python                 | H. Tenkanen & D. Whipp| University of Helsinki |
-| Python / SQL / Datascience |                  | W3 Schools          |
-| Pandas / Numpy / Scipy     |                  | W3 Schools          |
+| Geo-Python                 | H. Tenkanen & D. Whipp | University of Helsinki |
+| Python / SQL / Datascience | W3 Schools       | W3 Schools          |
+| Pandas / Numpy / Scipy     | W3 Schools       | W3 Schools          |
 | AI for Everyone            | Andrew Ng        | Deeplearning.ai     |
-| Statistics                 |                  | W3 Schools          |
+| Statistics                 | W3 Schools       | W3 Schools          |
 | Introduction to Statistics | Guenther Walther | Stanford University |
 
 ## Interest and Ideas
