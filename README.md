@@ -11,3 +11,8 @@
 | AI for Everyone            | Andrew Ng        | Deeplearning.ai     |
 | Introduction to Statistics | Guenther Walther | Stanford University |
 
+## Interest and Ideas
+
+| Interest/Idea              | Notes                               |
+| :------------------------- | ----------------------------------- |
+| N/A                        | N/A                                 |
