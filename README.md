@@ -13,6 +13,6 @@
 
 ## Interest and Ideas
 
-| Interest/Idea              | Notes                               |
-| :------------------------- | ----------------------------------- |
-| N/A                        | N/A                                 |
+| Interest/Idea              | Notes                                      |
+| :------------------------- | ------------------------------------------ |
+| Titanic Dataset - Kaggle   | Concentrate on learning pandas first       |
