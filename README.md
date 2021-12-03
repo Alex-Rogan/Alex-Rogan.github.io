@@ -1,5 +1,5 @@
 <a href="./Projects/project1.html">Data Science Projects</a>
-[Data Science Projects](./Projects/project.md)
+[Data Science Projects](./Projects/project1.md)
 
 ## Ongoing Projects
   
