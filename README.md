@@ -1,3 +1,5 @@
+<a href="./projects">Go to next page</a>
+
 ## Ongoing Projects
   
 | Project                        | Status                  | Area                     | Notes                                |
