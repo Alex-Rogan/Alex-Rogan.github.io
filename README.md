@@ -1,4 +1,8 @@
-# Stephen Christensen
+## Ongoing Projects
+
+| Project                    | Status           | Status              | Notes               |
+| :------------------------- | ---------------- | ------------------- | ------------------- |
+| N/A                        | N/A              | N/A                 |                     |
 
 ## Further Education
 
