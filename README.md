@@ -1,8 +1,9 @@
 ## Ongoing Projects
 
-| Project                    | Status           | Status              | Notes               |
-| :------------------------- | ---------------- | ------------------- | ------------------- |
-| N/A                        | N/A              | N/A                 |                     |
+| Project                        | Status                  | Area                     | Notes                           |
+| :----------------------------- | ----------------------- | ------------------------ | ------------------------------- |
+| Decrease printer LED intensity | install buck converter  | 3D printing, Electronics | may require case modification   |
+| Motion alarm                   | mount buzzer on outside | Work, Electronics        | buzzer on outside to close case |
 
 ## Further Education
 
