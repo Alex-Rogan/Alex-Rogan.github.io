@@ -1,4 +1,4 @@
 [MAIN](https://alex-rogan.github.io/)
 
-# Project 1
+# DATA SCIENCE PROJECTS
   
