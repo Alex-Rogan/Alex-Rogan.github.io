@@ -10,7 +10,7 @@
 ## Further Education
 
 | Course                     | Instructor       | Provider            |
-| :------------------------- | ---------------- | ------------------- |
+| :------------------------- | :--------------: | :-----------------: |
 | Python                     |                  | W3 Schools          |
 | SQL                        |                  | W3 Schools          |
 | Datascience                |                  | W3 Schools          |
