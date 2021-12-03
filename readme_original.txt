@@ -4,12 +4,6 @@ You can use the [editor on GitHub](https://github.com/Alex-Rogan/Alex-Rogan.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Further Education
-| Course                     | Instructor       | Provider            | Length |
-| :------------------------- | :--------------- | :------------------ | :----- |
-| AI for Everyone            | Andrew Ng        | Deeplearning.ai     | ~4h    |
-| Introduction to Statistics | Guenther Walther | Stanford University | ~15h   |
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
