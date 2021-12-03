@@ -1,4 +1,4 @@
-[Data Science Projects](./Projects/project1.md)
+[DATA SCIENCE PROJECTS](./Projects/project1.md)
 
 ## Ongoing Projects
   
