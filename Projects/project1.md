@@ -1,6 +1,6 @@
 <a href="Alex-Rogan.github.io/blob/master/README.md">Back</a>
 
-[README](./README.md)
+[README](././)
 
 # Project 1
   
