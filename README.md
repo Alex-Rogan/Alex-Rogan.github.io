@@ -19,10 +19,3 @@
 | Pandas / Numpy / Scipy                  | W3 Schools             | W3 Schools             |
 | Python / SQL / Datascience              | W3 Schools             | W3 Schools             |
 | Geo-Python                              | H. Tenkanen & D. Whipp | University of Helsinki |
-
-
-## Interest and Ideas
-
-| Interest/Idea              | Notes                                      |
-| :------------------------- | ------------------------------------------ |
-| Titanic Dataset - Kaggle   | Concentrate on learning pandas first       |
