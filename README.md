@@ -5,6 +5,7 @@
 
 | Course                                  | Instructor             | Provider               |
 | :-------------------------------------- | :--------------------: | :--------------------: |
+| Intermediate Python                     | Hugo Bowne-Anderson    | Datacamp               |
 | Introduction to Python for Data Science | Hugo Bowne-Anderson    | Datacamp               |
 | Introduction to Statistics              | Guenther Walther       | Stanford University    |
 | Statistics                              | W3 Schools             | W3 Schools             |
