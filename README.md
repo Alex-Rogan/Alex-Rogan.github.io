@@ -1,4 +1,5 @@
 [DATA SCIENCE PROJECTS](./Projects/project1.md)
+[OTHER PROJECTS](./Projects/project2.md)
 
 ## Further Education
 
