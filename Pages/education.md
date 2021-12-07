@@ -1,4 +1,4 @@
-| [MAIN](https://alex-rogan.github.io/) | [DATA SCIENCE](./Pages/datsci.md) | [OTHER PROJECTS](./Pages/other.md) |
+| [MAIN](https://alex-rogan.github.io/) | [DATA SCIENCE](./datsci.md) | [OTHER PROJECTS](./other.md) |
 | :-------------------------------------------- | :-------------------------------------------- | :-------------------------------------------- |
 
 
