@@ -1,5 +1,6 @@
-[DATA SCIENCE PROJECTS](./Projects/project1.md)
-[OTHER PROJECTS](./Projects/project2.md)
+|[FURTHER EDUCATION](./Projects/education.md)|[DATA SCIENCE](./Projects/datsci.md)| [OTHER PROJECTS](./Projects/other.md)      |
+| :-------------------------------------------- | :-------------------------------------------- |:-------------------------------------------- |
+
 
 ## Further Education
 
