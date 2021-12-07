@@ -5,7 +5,7 @@
 
 | Course                                  | Instructor             | Provider               |
 | :-------------------------------------- | :--------------------: | :--------------------: |
-| Data Manipulation with Pandas           | Richie Cotton          | Datacamp               |
+| Data Manipulation with Pandas           | R. Cotton & M. Matsui  | Datacamp               |
 | Intermediate Python                     | Hugo Bowne-Anderson    | Datacamp               |
 | Introduction to Python for Data Science | Hugo Bowne-Anderson    | Datacamp               |
 | Introduction to Statistics              | Guenther Walther       | Stanford University    |
