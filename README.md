@@ -1,3 +1,3 @@
 
-| [FURTHER EDUCATION](./pages/education.md) | [DATA SCIENCE](./pages/datsci.md) | [OTHER PROJECTS](./pages/other.md) |
+| [FURTHER EDUCATION](./Pages/education.md) | [DATA SCIENCE](./Pages/datsci.md) | [OTHER PROJECTS](./Pages/other.md) |
 | :-------------------------------------------- | :-------------------------------------------- | :-------------------------------------------- |
