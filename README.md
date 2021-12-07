@@ -1,4 +1,4 @@
-|[FURTHER EDUCATION](./Projects/education.md)|[DATA SCIENCE](./Projects/datsci.md)| [OTHER PROJECTS](./Projects/other.md)      |
+|[FURTHER EDUCATION](./pages/education.md)|[DATA SCIENCE](./pages/datsci.md)| [OTHER PROJECTS](./pages/other.md)      |
 | :-------------------------------------------- | :-------------------------------------------- |:-------------------------------------------- |
 
 
