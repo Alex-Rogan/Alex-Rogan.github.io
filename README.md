@@ -1,5 +1,5 @@
 
-|[FURTHER EDUCATION](./pages/education.md)|[DATA SCIENCE](./pages/datsci.md)| [OTHER PROJECTS](./pages/other.md)      |
+| [FURTHER EDUCATION](./pages/education.md) | [DATA SCIENCE](./pages/datsci.md) | [OTHER PROJECTS](./pages/other.md)      |
 
 | :-------------------------------------------- | :-------------------------------------------- |:-------------------------------------------- |
 
