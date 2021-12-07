@@ -1,6 +1,6 @@
 
-| [MAIN](https://alex-rogan.github.io/) | [FURTHER EDUCATION](./Pages/education.md) | [DATA SCIENCE](./Pages/datsci.md) |
-| :-------------------------------------------- | :-------------------------------------------- | :-------------------------------------------- |
+| [MAIN](https://alex-rogan.github.io/) | [FURTHER EDUCATION](./education.md) | [DATA SCIENCE](./datsci.md) |
+| :------------------------------------ | :---------------------------------- | :-------------------------- |
 
 # DATA SCIENCE PROJECTS
   
