@@ -5,6 +5,7 @@
 
 | Course                                  | Instructor             | Provider               |
 | :-------------------------------------- | :--------------------: | :--------------------: |
+| Python Data Science Toolbox 1&2         | Hugo Bowne-Anderson    | Datacamp               |
 | Data Manipulation with Pandas           | R. Cotton & M. Matsui  | Datacamp               |
 | Intermediate Python                     | Hugo Bowne-Anderson    | Datacamp               |
 | Introduction to Python for Data Science | Hugo Bowne-Anderson    | Datacamp               |
