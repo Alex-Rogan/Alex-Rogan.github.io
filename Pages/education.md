@@ -5,6 +5,7 @@
 
 | Course                                  | Instructor             | Provider               |
 | :-------------------------------------- | :--------------------: | :--------------------: |
+| Importing & Cleaning Data with Python   | Hugo Bowne-Anderson    | Datacamp               |
 | Python Data Science Toolbox 1&2         | Hugo Bowne-Anderson    | Datacamp               |
 | Data Manipulation with Pandas           | R. Cotton & M. Matsui  | Datacamp               |
 | Intermediate Python                     | Hugo Bowne-Anderson    | Datacamp               |
