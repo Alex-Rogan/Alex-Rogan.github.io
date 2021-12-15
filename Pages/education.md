@@ -5,6 +5,7 @@
 
 | Course                                   | Instructor             | Provider               |
 | :--------------------------------------- | :--------------------: | :--------------------: |
+| Intermediate Importing Data in Python    | Hugo Bowne-Anderson    | Datacamp               |
 | Introduction to Importing Data in Python | Hugo Bowne-Anderson    | Datacamp               |
 | Python Data Science Toolbox 1 & 2        | Hugo Bowne-Anderson    | Datacamp               |
 | Data Manipulation with Pandas            | R. Cotton & M. Matsui  | Datacamp               |
